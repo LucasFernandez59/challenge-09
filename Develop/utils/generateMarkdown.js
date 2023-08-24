@@ -25,18 +25,23 @@ function generateMarkdown(data) {
   - [Questions](#questions)
 
   ## Installation
+  <a id="installation"></a>
   ${data.installation}
 
   ## Usage
+  <a id="usage"></a>
   ${data.usage}
 
   ## Contributing
+  <a id="contributing></a>
   ${data.contributing}
 
   ## Tests
+  <a id="tests"></a>
   ${data.tests}
 
   ## Questions
+  < id="questions"></a>
   ${data.github}
   ${data.email}
 `;
